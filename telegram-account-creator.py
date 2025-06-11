@@ -15,7 +15,7 @@ magentac = Style.BRIGHT + Fore.MAGENTA
 cyanc = Style.BRIGHT + Fore.CYAN
 
 
-print()
+print("")
 print(f"{magentac}[*] Telegram bulk account creator [PREMIUM VERSION]")
 print()
 print(f"{greenc}[*] www.KenzaByte.com")
