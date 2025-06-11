@@ -1,5 +1,7 @@
 # Bulk Telegram Account Creator - Emulator 
 
+Now it support auto emails Verification too .
+
 Create unlimited Telegram Accounts using Emulator and Automatic Converts to sessions [Fully Automatic] ✅
 
 The Telegram Bulk Account Creator Tool, or Telegram Account Generator Bot, is a completely automatic software. It gets a phone number from a website on its own and then tries to make a Telegram account in the emulator automatically. 
@@ -28,7 +30,7 @@ For any business proposals, please feel free to reach out to us using the contac
 
 - RAM: Minimum 8GB
 
-- 👉 [View the Product  ](https://www.kenzabyte.com/product/telegram-bulk-account-creator/) 
+- 👉 [View the Product  ](https://www.kenzabyte.com/product/telegram-account-creator/) 
 
 
 
